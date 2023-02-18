@@ -4,12 +4,12 @@
 class RutaController {
     //put your code here
     public static function RutaView() {
-        return "http://localhost:90/netbeansproyect/TiendaCMS/View/";
+        return "https://tienda-drywall-production.up.railway.app/View/";
     }
     public static function getRutaAdmin() {
-        return "http://localhost:90/netbeansproyect/TiendaCMS/admin/";
+        return "https://tienda-drywall-production.up.railway.app/admin/";
     }
     public static function getRutaPrincipal() {
-        return "http://localhost:90/netbeansproyect/TiendaCMS";
+        return "https://tienda-drywall-production.up.railway.app/";
     }
 }
