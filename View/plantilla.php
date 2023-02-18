@@ -8,7 +8,7 @@
     <body>
         <?php include 'Modulo/menu.php' ?>
         <!-- header section start -->
-        <?php //include 'Modulo/slider.php' ?>
+        <?php include 'Modulo/slider.php' ?>
         <!-- header section end -->
         <!-- product section start -->
 
