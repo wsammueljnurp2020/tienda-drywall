@@ -5,7 +5,8 @@ error_reporting(E_ALL);
 class PlantillaController {
 
     public function ctrPlantilla() {
-        include "View/Shared/index.php";
+        include "View/plantilla.php";
+        
     }
 
 }
